@@ -1,0 +1,38 @@
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\THNMLT_LeQuangTrinh_BTVN\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Luutruhoctap\HeDieuHanh\filebailam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\nguye\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\nguye\Downloads\WindowsFormsApplication1\Đấu giá\obj\Debug\WindowsFormsApplication1.pdb
